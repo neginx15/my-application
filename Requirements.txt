@@ -1,0 +1,11 @@
+Text editor:
+1. Different H tags
+2. P tag
+3. Images
+4. Links (CTA)
+5. Drag and Drop (Next iteration)
+
+User should be able to select elements, move them around, edit the content. 
+
+Easy to read / scale / maintain
+Good to have: Tests
